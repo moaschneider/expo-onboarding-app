@@ -23,3 +23,11 @@ Esse projeto simples foi criado no [Cursor](https://www.cursor.com/) utilizando 
 
 5. Criação de repositório (sim, isso deveria ter sido feito na preparação 🤦).
 
+### Comentários
+
+1. A partir do prompt que tornava a aplicação funcional surgiram muitos erros de código.
+
+2. Passei a ter melhores resultados fazendo requisições com pequenas alterações.
+
+3. Iniciei o processo de buildar usando o EAS, mas acabei focando em terminar a tarefa.
+
